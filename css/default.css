@@ -2,12 +2,15 @@
  * Text styles
  */
 
+
 	a{
-		color:#000;
-		text-decoration:underline;
+		color:#e507a6;
+		text-decoration:none;
 	}
 
-	a:hover { text-decoration:none;}
+	a:hover { 
+
+		text-decoration:underline;}
 	
 
 	h1{
@@ -37,13 +40,15 @@
 	}
 
 	p {
-	  font:.9em "Droid Serif", serif;
-	  line-height: 1em;
+	  font:1em "Droid Serif", serif;
+	  line-height: 1.9em;
 	  letter-spacing: 0.035em;
 	  color: #000;
 	  margin-top: 0;
 	  margin-bottom: 0.25em;
 	}
+
+
 
 	p.subhead {
 	  font:1.5em "Oswald", serif;
@@ -134,10 +139,10 @@ img.storyimage {
 
 }
 
-p {
-	line-height: 2.5em;
-}
 
+p{
+	font-size: 16px;
+}
     
 }
 
@@ -155,8 +160,8 @@ p {
 	text-align: center;
 }
 
-p {
-	line-height: 1.9em;
+p{
+	font-size: 14px;
 }
 	
 
