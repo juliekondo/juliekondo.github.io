@@ -4,18 +4,18 @@
 
 
 	a{
-		color:#e507a6;
-		text-decoration:none;
+		color:#000;
+		text-decoration:underline;
 	}
 
 	a:hover { 
 
-		text-decoration:underline;}
+		text-decoration:none;}
 	
 
 	h1{
 		font:3em 'Oswald', sans-serif;
-		font-weight: 300;
+		font-weight: 600;
 		text-transform: uppercase;
 		letter-spacing: 0.04em;
 		color:#ff41ae;
@@ -27,13 +27,14 @@
 
 
 	h2{
-		font:1em "Droid Serif", serif;
-		font-weight: 700;
-		letter-spacing: 0.025em;
-		color:#ff7036;
-		font-style: italic;
+		font:1em "Oswald", serif;
+		font-weight: 600;
+		letter-spacing: 0.1em;
+		color:#ff41ae;
+		font-style: normal;
 		margin-top: 0;
 		margin-bottom: 25px;
+		text-transform: uppercase;
 		
 
 
@@ -102,7 +103,7 @@ body {
 	}
 
 .jkondo {
-	width: 200px;
+	width: auto;
 }
 
 .main {
