@@ -14,7 +14,7 @@
 	
 
 	h1{
-		font:2em 'Poppins', sans-serif;
+		font:3em 'Poppins', sans-serif;
 		font-weight: 500;
 		text-transform: uppercase;
 		letter-spacing: 0.09em;
@@ -26,7 +26,7 @@
 
 
 	h2{
-		font:1em "Poppins", sans-serif;
+		font:1.2em "Poppins", sans-serif;
 		font-weight: 400;
 		letter-spacing: 0.08em;
 		color:#4D6BA1;
@@ -51,7 +51,7 @@
 
 
 	p.subhead {
-		font:1.1em "Poppins", sans-serif;
+		font:1.2em "Poppins", sans-serif;
 		font-weight: 500;
 		letter-spacing: 0.10em;
 		color:#FF3321;
@@ -75,7 +75,7 @@ img.storyimage {
 hr.thin {
 height: 1px;
 border: 0;
-background-color: #BACEC2;
+background-color: #CED8D2;
 width: 100%;
 margin-bottom: 30px;
 
